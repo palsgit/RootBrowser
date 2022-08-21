@@ -1,2 +1,2 @@
 # RootBrowser
-Short code to open *.root files in Mac OS
+Codebase to open *.root files in macOS
